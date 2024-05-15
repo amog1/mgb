@@ -1,0 +1,31 @@
+html {
+  background-image: url(image/bachgtound.png);
+}
+body {
+  background-color: rgba(240, 248, 255, 0.77);
+  margin: auto;
+  width: 800px;
+  height: 700px;
+  padding: 50px;
+  border: 5px solid black;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+img {
+  width: 400px;
+  height: 400px;
+  padding-left: 200px;
+}
+b {
+  font-size: larger;
+}
+input {
+  color: rgb(27, 186, 6);
+  width: 800px;
+  height: 30px;
+}
+button {
+  font-size: large;
+  color: black;
+  background-color: azure;
+}
